@@ -60,7 +60,7 @@
       </div>
     """
 
-  'Button group vertical - Bootstrap 4':
+  'Button vertical group - Bootstrap 4':
     'prefix': 'btngrvr'
     'body': """
       <div class="btn-group-vertical" role="group" aria-label="${1:Basic example}">

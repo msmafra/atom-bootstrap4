@@ -55,7 +55,7 @@
       </nav>
     """
 
-  'Pagination SZ - Bootstrap 4':
+  'Pagination Sizing - Bootstrap 4':
     'prefix': 'pagsz'
     'body': """
       <nav>

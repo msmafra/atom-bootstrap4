@@ -90,7 +90,7 @@
       </div>
     """
 
-  'Modal content based- Bootstrap 4':
+  'Modal content based - Bootstrap 4':
     'prefix': 'modcb'
     'body': """
       <div class="bd-example">
@@ -129,7 +129,7 @@
       </div>
     """
 
-  'Modal button - Bootstrap 4':
+  'Modal content based button - Bootstrap 4':
     'prefix': 'modbtn'
     'body': """
       <button class="btn btn-primary" data-toggle="modal" data-target="#${1:bd-example-modal}">${2:Large modal}</button>
